@@ -1,0 +1,10 @@
+# Project files
+.idea
+*.iml
+
+# Log files
+*.log
+
+# Compiled class files
+target
+*.class
